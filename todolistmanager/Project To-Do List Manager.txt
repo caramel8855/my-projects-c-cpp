@@ -1,0 +1,21 @@
+Project: To-Do List Manager
+
+Project Description:
+
+Create a command-line to-do list manager in C. The program should allow users to perform various operations on their to-do list, such as adding tasks, marking tasks as done, displaying the list, and deleting tasks. You can implement this project using arrays or linked lists for storing tasks.
+
+Features:
+
+Add Task: Allow users to add tasks to the to-do list.
+
+Mark Task as Done: Allow users to mark tasks as done once they are completed.
+
+Display Tasks: Display the list of tasks with their status (done or not done).
+
+Delete Task: Allow users to remove tasks from the list.
+
+Save/Load Tasks: Implement functionality to save the to-do list to a file and load tasks from a file.
+
+User-Friendly Interface: Design a simple and intuitive interface for users to interact with the to-do list.
+
+
